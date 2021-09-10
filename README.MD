@@ -33,10 +33,10 @@
 
 ### API
 
-#####Para pruebas rápidas del endpoint
+##### Para pruebas rápidas del endpoint
 - https://reqres.in/
 
-#####APi de mapas
+##### APi de mapas
 - https://www.mapbox.com/
 
 - https://docs.mapbox.com/api/search/geocoding/
